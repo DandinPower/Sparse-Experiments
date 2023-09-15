@@ -1,0 +1,7 @@
+dataset的 1:0 rate為 3:7
+----------------------------------------
+Number of parameters in word embeddings: 23440896
+Ratio of word embedding parameters to entire model: 0.21
+
+Number of parameters in word embeddings: 31254528
+Ratio of word embedding parameters to entire model: 0.09
